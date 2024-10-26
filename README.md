@@ -1,2 +1,2 @@
 # Excel_Analysis
-It is a excel project, where utilizing store data in Excel to address key business challenges and drive strategic decision-making.
+Utilizing store data in Excel, Transforming store data into useful insights to solve business challenges and enhance customer experiences!
